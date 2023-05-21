@@ -16,22 +16,23 @@
 
 
 .union {
-    margin-bottom: 50rem;
+    margin-top: -50rem;
 }
 
 
 .hd1 {
-    font-size: 32px;
+    font-size: 42px;
+    margin-bottom: 10rem;
 }
 
 .box {
-    top: 130px;
-    right: 40px;
+    top: 50px;
+    right: 30px;
     left: 40px;
     /* margin-right: 10rem; */
     background: rgba(98, 0, 238, 0.05);
     box-shadow: 4px 4px 10px rgba(98, 0, 238, 0.1);
-    backdrop-filter: blur(43px);
+    backdrop-filter: blur(33px);
     /* Note: backdrop-filter has minimal browser support */
     
     border-radius: 16px;
@@ -48,16 +49,32 @@
 
 .hd2 {
     /* text-align: center; */
-    font-size: 24px;
-    height: 100px;
+    font-size: 34px;
+    height: 200px;
     width: 1500px;
+    margin-top: 10rem;
+}
+.pqr{
+    margin-top: 12rem;
 }
 
 
 .design {
-    font-size: 88px;
+    font-size: 100px;
     color: #6200ee;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: -11rem;
+}
+.circle{
+    margin-top: -1rem;
+    margin-right: 2rem;
+}
+.hole{
+    margin-top: -1rem;
+    margin-left: 2rem;
+}
+.stripes{
+    margin-top: 1rem;
 }
